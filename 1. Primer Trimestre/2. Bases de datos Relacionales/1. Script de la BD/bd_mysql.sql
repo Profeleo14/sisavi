@@ -27,3 +27,5 @@ primary key (id_preg)
 alter table usuario add
 foreign key (pregunta_seg)
 references preguntas (id_preg);
+
+Bienvenidos a GitHub
